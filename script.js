@@ -1,4 +1,5 @@
 ﻿const sounds = [
+    { name: "(1)공연안내", file: "(1)공연안내.mp3" },
     { name: "(2)첫 시작", file: "(2)첫 시작.mp3" },
     { name: "(3)거리", file: "(3)거리.mp3" },
     { name: "(4)1막 삐", file: "(4)1막 삐.mp3" },
